@@ -36,7 +36,7 @@ import threading
 import psutil
 
 
-class panic_thread:
+class PanicThread:
     ONE_MEGABYTE = 1000000
     ONE_HUNDRED_MEGABYTES = 100000000
     FIVE_HUNDRED_MEGABYTES = 500000000
